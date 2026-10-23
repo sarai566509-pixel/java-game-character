@@ -52,4 +52,4 @@ On Windows, you can also open the folder in an IDE such as IntelliJ IDEA, Eclips
 
 ## Notes
 
-This is a learning/demo application. Actions are recorded in the battle log; there is no opponent AI or full combat system yet.
+This is a learning / demo application. Actions are recorded in the battle log; there is no opponent AI or full combat system yet.
